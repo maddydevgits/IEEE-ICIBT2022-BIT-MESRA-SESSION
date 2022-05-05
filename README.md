@@ -16,6 +16,12 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 5. Machine Learning Model
 6. Web Application on ML Model
 
+# Install the requirements
+pip install -r requirements.txt
+
+# How to run streamlit script
+streamlit run app.py
+
 # Programming Languages
 
 1. Python
